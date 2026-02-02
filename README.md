@@ -235,7 +235,7 @@ All tests should pass
 
 ## AI Usage
 
-**Tools used:** ChatGPT, GitHub Copilot
+**Tools used:** Gemini, GitHub Copilot
 
 AI was used to speed up routine work (scaffolding, small refactors, and generating test/edge-case ideas).  
 All key logic and design decisions were implemented and verified by me, including cycle prevention (DFS ancestor check) and consistent server-side validation.  
